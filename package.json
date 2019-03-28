@@ -11,18 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimiMikadze/create-react-library.git"
-  },
-  "author": "Dimi Mikadze <dimi@udilia.com>",
-  "bugs": {
-    "url": "https://github.com/DimiMikadze/create-react-library/issues"
-  },
-  "homepage": "https://github.com/DimiMikadze/create-react-library#readme",
-  "license": "MIT",
-  "dependencies": {
-    "lodash": "^4.17.11",
-    "react-select": "^2.4.2",
-    "semantic-ui-react": "^0.86.0"
+    "url": "git+https://github.com/pallavihegde1/test-component"
   },
   "devDependencies": {
     "@babel/core": "7.2.2",
