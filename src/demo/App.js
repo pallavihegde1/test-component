@@ -1,11 +1,9 @@
 import React from 'react';
-import Table from '../lib';
-import { SecondExample } from '../lib';
+import {Table} from '../lib';
 
 const App = () => (
   <div>
     <Table />
-    <SecondExample />
   </div>
 );
 
