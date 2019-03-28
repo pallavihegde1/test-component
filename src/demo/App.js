@@ -1,5 +1,5 @@
 import React from 'react';
-import {Table} from '../lib';
+import Table from '../lib';
 
 const App = () => (
   <div>
